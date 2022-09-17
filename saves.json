@@ -1,0 +1,60 @@
+{
+  "players": [
+    {
+      "id": "1",
+      "name": "Handledsborn",
+      "level": 8,
+      "class": "cleric",
+      "race": "damphir",
+      "experience": 35700,
+      "hpMax": 63,
+      "age": 36,
+      "background": "inquisitor",
+      "speed": 10.5,
+      "alignment": "C/N",
+      "size": "medium",
+      "ability": {
+        "intelligence": 11,
+        "strength": 14,
+        "dexterity": 10,
+        "constitution": 14,
+        "wisdom": 18,
+        "charisma": 13
+      },
+      "status": {
+        "actualHp": 58
+      }
+    },
+    {
+      "id": "2",
+      "name": "Luca",
+      "level": 1,
+      "class": "fighter",
+      "race": "human",
+      "experience": 0,
+      "hpMax": 25,
+      "age": "",
+      "background": "",
+      "speed": 0,
+      "alignment": "",
+      "size": "",
+      "ability": {
+        "intelligence": 14,
+        "strength": 15,
+        "dexterity": 15,
+        "constitution": 11,
+        "wisdom": 15,
+        "charisma": 14
+      },
+      "status": {
+        "actualHp": 0
+      }
+    }
+  ],
+  "id": [
+    {
+      "id": "0",
+      "lastID": 2
+    }
+  ]
+}
